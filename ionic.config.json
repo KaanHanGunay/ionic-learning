@@ -1,5 +1,7 @@
 {
   "name": "ionic-course-1-section",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
